@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 25, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Brian Lorenz)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
